@@ -1,7 +1,0 @@
-Buatlah satu Notebook baru, berilah nama notebook tersebut dengan format Nama
-lengkap (NIM) anda. Kemudian ketikkan ulang kode program seperti yang ada di Gambar 1.24.
-Tuliskan langkah-langkah yang anda lakukan secara berurutan, sampai mendapatkan hasil
-seperti pada gambar tersebut. Perhatikan, anda harus menjelaskan langkah-langkah disertai
-gambar/screenshot. Jangan lupa memasukkan langkah-langkah instalasi package-package yang
-diperlukan (matplotlib dan numpy). Instalasi package tersebut biasanya tidak diperlukan jika
-anda menginstall Python dari Anaconda.
