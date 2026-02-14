@@ -1,0 +1,5 @@
+Buatlah program yang dapat menghitung berat badan yang diperlukan, jika diketahui
+tinggi badan dan nilai Body Mass Index (BMI) yang diharapkan! Body Mass Index
+dihitung dengan cara: BMI = berat / tinggi^2 . Perhatikan, berat badan dalam satuan kilogram (kg) dan
+tinggi badan dalam satuan meter (m).
+
